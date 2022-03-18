@@ -9,7 +9,7 @@
 </a>
 
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=xavion-lux&&style=flat-square" align="left" />
+<img src="https://komarev.com/ghpvc/?username=purplerazo&&style=flat-square" align="left" />
 </div> 
 
 <br />
