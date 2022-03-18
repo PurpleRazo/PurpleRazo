@@ -7,6 +7,7 @@
 <a href="https://discord.gg/">
   <img align="left" alt="Discord (soon)" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=purplerazo.purplerazo)
 
 <br />
@@ -30,5 +31,3 @@ ReadMe still in progress...
 📈 Github Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=purplerazo&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
