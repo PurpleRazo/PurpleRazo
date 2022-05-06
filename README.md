@@ -25,4 +25,4 @@ ReadMe still in progress...
 
 
 📈 Github Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=purplerazo&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=razovr&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
